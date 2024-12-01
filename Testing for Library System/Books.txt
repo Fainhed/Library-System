@@ -1,0 +1,12 @@
+Science : The Elegant Universe by Brian Greene 
+Science : Sapiens: A Brief History of Humankind by Yuval Noah Harari 
+Math : How Not to Be Wrong: The Power of Mathematical Thinking by Jordan Ellenberg 
+Math : The Princeton Companion to Mathematic by Timothy Gowers
+History : Guns, Germs, and Steel: The Fates of Human Societies by Jared Diamond
+History : The Silk Roads: A New History of The World by Peter Frankopan
+Economics : Thinking, Fast and Slow by Daniel Kahneman
+Economics : The Wealth of Nations by Adam Smith
+Philosophy : The Republic by Plato
+Philosophy : Meditations by Marcus Aurelius
+TEST
+try
